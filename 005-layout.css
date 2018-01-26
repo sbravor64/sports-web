@@ -1,0 +1,43 @@
+#layout1 {
+    width: 80%;
+    margin: 0 auto;
+}
+
+header, footer{
+    border: 1px solid gray;
+    padding: 1em;
+    color: black;
+    clear: left;
+    text-align: center;
+    background-color: #0099ff;
+}
+
+#menu-izquierda {
+    border: 1px solid gray;
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
+
+}
+
+#menu-izquierda-2 {
+    border: 1px solid gray;
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
+
+}
+
+article {
+    border: 1px solid gray;
+    margin-left: 170px;
+    padding: 1em;
+    overflow: hidden;
+}
+
+img {
+    padding: 5px;
+    width: 350px;
+}

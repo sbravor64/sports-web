@@ -1,0 +1,45 @@
+#layout1 {
+    width: 80%;
+    margin: 0 auto;
+}
+
+#menu-superior{
+    border: 1px solid gray;
+    padding: 1em;
+    color: black;
+    clear: left;
+    text-align: center;
+    background-color: #0099ff;
+}
+
+#menu-inferior{
+    border: 1px solid gray;
+    padding: 1em;
+    color: black;
+    clear: left;
+    text-align: center;
+    background-color: #0099ff
+}
+
+.menu-derecha {
+    border: 1px solid gray;
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
+
+}
+
+.liga {
+    border: 1px solid gray;
+    margin-left: 170px;
+    padding: 1em;
+    overflow: hidden;
+}
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
